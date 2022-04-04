@@ -5,7 +5,7 @@ import masters from '../data/data.json'
 
 const Home: NextPage = () => {
   return (
-    <div className=" h-screen bg-blue-200">
+    <div className="h-screen bg-blue-200">
       <div className="mx-15% pt-20">
         <Head>
           <title>Masters 2022</title>
@@ -29,9 +29,9 @@ const Home: NextPage = () => {
               </thead>
               <tbody>
                 <tr>
-                  <th className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs">
+                  <td className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs font-bold	">
                     {master.golfer1}
-                  </th>
+                  </td>
                   <td className="text-md whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 align-middle ">
                     {master.g1flag}
                   </td>
@@ -40,9 +40,9 @@ const Home: NextPage = () => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs">
+                  <td className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs font-bold	">
                     {master.golfer2}
-                  </th>
+                  </td>
                   <td className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 align-middle text-xs ">
                     {master.g2flag}
                   </td>
@@ -51,9 +51,9 @@ const Home: NextPage = () => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs">
+                  <td className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs font-bold	">
                     {master.golfer3}
-                  </th>
+                  </td>
                   <td className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 align-middle text-xs ">
                     {master.g3flag}
                   </td>
@@ -62,9 +62,9 @@ const Home: NextPage = () => {
                   </td>
                 </tr>
                 <tr>
-                  <th className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs ">
+                  <td className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 text-left align-middle text-xs font-bold	">
                     {master.golfer4}
-                  </th>
+                  </td>
                   <td className="whitespace-nowrap border-t-0 border-l-0 border-r-0 p-4 px-6 align-middle text-xs ">
                     {master.g4flag}
                   </td>
@@ -76,9 +76,9 @@ const Home: NextPage = () => {
 
               <tfoot className="thead-light ">
                 <tr>
-                  <th className="bg-blueGray-50 text-blueGray-500 border-blueGray-100 whitespace-nowrap border border-l-0 border-r-0 border-solid px-6 py-3 text-left align-middle text-xs font-semibold uppercase">
+                  <td className="bg-blueGray-50 text-blueGray-500 border-blueGray-100 whitespace-nowrap border border-l-0 border-r-0 border-solid px-6 py-3 text-left align-middle text-xs font-semibold font-bold uppercase	">
                     Total
-                  </th>
+                  </td>
 
                   <th className="bg-blueGray-50 text-blueGray-500 border-blueGray-100 whitespace-nowrap border border-l-0 border-r-0 border-solid px-6 py-3 text-left align-middle text-xs font-semibold uppercase"></th>
                   <th className="bg-blueGray-50 text-blueGray-700 border-blueGray-100 min-w-140-px whitespace-nowrap border border-l-0 border-r-0 border-solid px-6 py-3 text-left align-middle text-xs font-semibold uppercase">
