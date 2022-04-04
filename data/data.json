@@ -15,6 +15,21 @@
     "g4points": 3
   },
   {
+    "name": "Matthew Telford",
+    "golfer1": "Hideki Matsuyama",
+    "g1flag": "🇰🇷",
+    "g1points": 6,
+    "golfer2": "Tiger Woods",
+    "g2flag": "🇺🇸",
+    "g2points": 6,
+    "golfer3": "Phil Mickelson",
+    "g3flag": "🇺🇸",
+    "g3points": -4,
+    "golfer4": "Dustin Johnson",
+    "g4flag": "🇺🇸",
+    "g4points": 3
+  },
+  {
     "name": "Ryan Haughey",
     "golfer1": "Hideki Matsuyama",
     "g1flag": "🇰🇷",
