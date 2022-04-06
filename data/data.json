@@ -1,79 +1,20 @@
-[
-  {
-    "name": "Conor Kelly",
-    "idPlayer1": 13,
-    "g1flag": "🇰🇷",
-    "idPlayer2": 12,
-    "g2flag": "🇮🇪",
-    "idPlayer3": 11,
-    "g3flag": "🇺🇸",
-    "idPlayer4": 10,
-    "g4flag": "🇺🇸"
-  },
-  {
-    "name": "Matthew Telford",
-    "idPlayer1": 8,
-    "g1flag": "🇰🇷",
-    "idPlayer2": 9,
-    "g2flag": "🇮🇪",
-    "idPlayer3": 7,
-    "g3flag": "🇺🇸",
-    "idPlayer4": 6,
-    "g4flag": "🇺🇸"
-  },
-  {
-    "name": "Ryan Haughey",
-    "idPlayer1": 1,
-    "idPlayer2": 2,
-    "idPlayer3": 3,
-    "idPlayer4": 4,
-    "g1flag": "🇰🇷",
-    "g2flag": "🇮🇪",
-    "g3flag": "🇺🇸",
-    "g4flag": "🇺🇸"
-  },
-  {
-    "name": "Conor Ahern",
-    "idPlayer1": 21,
-    "idPlayer2": 22,
-    "idPlayer3": 23,
-    "idPlayer4": 25,
-    "g1flag": "🇰🇷",
-    "g2flag": "🇮🇪",
-    "g3flag": "🇺🇸",
-    "g4flag": "🇺🇸"
-  },
-  {
-    "name": "Stephen McCauley",
-    "idPlayer1": 26,
-    "idPlayer2": 27,
-    "idPlayer3": 28,
-    "idPlayer4": 29,
-    "g1flag": "🇰🇷",
-    "g2flag": "🇮🇪",
-    "g3flag": "🇺🇸",
-    "g4flag": "🇺🇸"
-  },
-  {
-    "name": "Scott Mitchell",
-    "idPlayer1": 31,
-    "idPlayer2": 32,
-    "idPlayer3": 33,
-    "idPlayer4": 13,
-    "g1flag": "🇰🇷",
-    "g2flag": "🇮🇪",
-    "g3flag": "🇺🇸",
-    "g4flag": "🇺🇸"
-  },
-  {
-    "name": "Kev McCoppin",
-    "idPlayer1": 35,
-    "idPlayer2": 36,
-    "idPlayer3": 37,
-    "idPlayer4": 38,
-    "g1flag": "🇰🇷",
-    "g2flag": "🇮🇪",
-    "g3flag": "🇺🇸",
-    "g4flag": "🇺🇸"
-  }
-]
+{
+  "golfers": [
+    {
+      "playerId": 13,
+      "name": "Hideki Matsuyama",
+      "points": "6"
+    },
+    {
+      "playerId": 12,
+      "name": "Tiger Woods",
+      "points": "6"
+    }
+  ],
+  "players": [
+    {
+      "name": "Conor"
+    },
+    { "name": "Ryan" }
+  ]
+}
